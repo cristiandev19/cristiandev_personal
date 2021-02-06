@@ -5,8 +5,9 @@
 
 :root {
   --background-color: white;
-  --dark-mode: rgb(16, 25, 33);
-  --font-color: white;
+  --dark-mode-background: rgb(16, 25, 33);
+  --font-color: black;
+  --dark-font-color: rgb(208, 204, 198);;
 }
 
 .principal {
@@ -27,6 +28,6 @@
 
 #main-container {
   height: 100vh;
-  background-color: var(--dark-mode);
-  color: var(--font-color);
+  background-color: var(--dark-mode-background);
+  color: var(--dark-font-color);
 }
