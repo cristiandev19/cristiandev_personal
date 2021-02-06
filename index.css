@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --background-color: white;
+  --dark-mode: rgb(16, 25, 33);
+  --font-color: white;
+}
+
+.principal {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.principal-photo {
+  width: 60%;
+}
+.principal-photo__content {
+  width: 100%;
+}
+
+#main-container {
+  height: 100vh;
+  background-color: var(--dark-mode);
+  color: var(--font-color);
+}
