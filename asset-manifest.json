@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cristiandev_personal/static/css/main.fcc0a55e.chunk.css",
-    "main.js": "/cristiandev_personal/static/js/main.8fd31c6b.chunk.js",
-    "main.js.map": "/cristiandev_personal/static/js/main.8fd31c6b.chunk.js.map",
-    "runtime-main.js": "/cristiandev_personal/static/js/runtime-main.36e05c53.js",
-    "runtime-main.js.map": "/cristiandev_personal/static/js/runtime-main.36e05c53.js.map",
-    "static/js/2.f5d85483.chunk.js": "/cristiandev_personal/static/js/2.f5d85483.chunk.js",
-    "static/js/2.f5d85483.chunk.js.map": "/cristiandev_personal/static/js/2.f5d85483.chunk.js.map",
-    "static/js/3.864e719f.chunk.js": "/cristiandev_personal/static/js/3.864e719f.chunk.js",
-    "static/js/3.864e719f.chunk.js.map": "/cristiandev_personal/static/js/3.864e719f.chunk.js.map",
-    "index.html": "/cristiandev_personal/index.html",
-    "static/css/main.fcc0a55e.chunk.css.map": "/cristiandev_personal/static/css/main.fcc0a55e.chunk.css.map",
-    "static/js/2.f5d85483.chunk.js.LICENSE.txt": "/cristiandev_personal/static/js/2.f5d85483.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/cristiandev_personal/static/media/Inter-Regular.9cd7588f.ttf"
+    "main.css": "/static/css/main.5c1d1444.chunk.css",
+    "main.js": "/static/js/main.c5d33e00.chunk.js",
+    "main.js.map": "/static/js/main.c5d33e00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff1d440f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff1d440f.js.map",
+    "static/js/2.f5d85483.chunk.js": "/static/js/2.f5d85483.chunk.js",
+    "static/js/2.f5d85483.chunk.js.map": "/static/js/2.f5d85483.chunk.js.map",
+    "static/js/3.864e719f.chunk.js": "/static/js/3.864e719f.chunk.js",
+    "static/js/3.864e719f.chunk.js.map": "/static/js/3.864e719f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c1d1444.chunk.css.map": "/static/css/main.5c1d1444.chunk.css.map",
+    "static/js/2.f5d85483.chunk.js.LICENSE.txt": "/static/js/2.f5d85483.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Inter-Regular.9cd7588f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.36e05c53.js",
+    "static/js/runtime-main.ff1d440f.js",
     "static/js/2.f5d85483.chunk.js",
-    "static/css/main.fcc0a55e.chunk.css",
-    "static/js/main.8fd31c6b.chunk.js"
+    "static/css/main.5c1d1444.chunk.css",
+    "static/js/main.c5d33e00.chunk.js"
   ]
 }
