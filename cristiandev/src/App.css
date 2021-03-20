@@ -1,15 +1,6 @@
+
 .App {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   height: 100vh;
-}
-
-.Row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.f-column {
-  flex-direction: column;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
