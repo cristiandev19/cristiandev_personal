@@ -1,0 +1,15 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100vh;
+}
+
+.Row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.f-column {
+  flex-direction: column;
+}
