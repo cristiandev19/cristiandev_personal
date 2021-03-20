@@ -3,6 +3,7 @@ import './styles/utils.css'
 import './styles/theme.css'
 
 function App() {
+  const urlCV = 'https://drive.google.com/file/d/1gj3sskWpp9RNnZTr4_WIgJRH6Uaw5fT5/view?usp=sharing';
   return (
     <div className="App">
       <div className="f-center">
@@ -17,7 +18,8 @@ function App() {
           <p>
             Un fullstack developer autodidacta por pasión, vocación y profesión. Me encanta ser retado constantemente a superar mis miedos y limites.
           </p>
-          <button className="primary-btn">Descargar CV</button>
+          {/* <button className="primary-btn">Descargar CV</button> */}
+          <a className="primary-btn" href={urlCV} target="_blank" rel="noreferrer">Descargar CV</a>
         </div>
       </div>
     </div>
